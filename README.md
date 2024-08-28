@@ -1,2 +1,2 @@
 # curriculobootstrap
-## https://github.io/Tamires-Anastacio/curriculobootstrap
+## https:// tamires-anastacio.github.io./curriculobootstrap
