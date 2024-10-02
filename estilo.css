@@ -1,0 +1,55 @@
+.foto-perfil{
+    border-radius: 90%;
+    max-width: 178px;
+    border:1px solid rgb(216, 17, 17):
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(193, 137, 245);
+}
+.style{
+    margin-bottom: 20px; 
+}
+h2{
+    color: rgb(139, 12, 12);
+}
+@media  and (max-width: 500px) {    
+
+}
+.contato{
+    border-radius: 90%;
+    max-width: 200px;
+    border:1px solid rgb(216, 17, 17):
+    margin: 0 auto;
+}
+.pessoal{
+    border-radius: 90%;
+    max-width: 263px;
+    border:1px solid rgb(216, 17, 17):
+    margin: 0 auto;
+}
+.educacao{
+    border-radius: 90%;
+    max-width: 263px;
+    border:1px solid rgb(216, 17, 17):
+    margin: 0 auto;
+}
+.certificados{
+    border-radius: 90%;
+    max-width: 202px;
+    border:1px solid rgb(216, 17, 17):
+    margin: 0 auto;
+}
+.habilidades{
+    border-radius: 90%;
+    max-width: 213px;
+    border:1px solid rgb(216, 17, 17):
+    margin: 0 auto;
+}
+.idiomas{
+    border-radius: 90%;
+    max-width: 213px;
+    border:1px solid rgb(216, 17, 17):
+    margin: 0 auto;
+}
